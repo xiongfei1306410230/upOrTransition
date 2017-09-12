@@ -1,8 +1,8 @@
 {
-  "name": "electron-vue-boilerplate",
+  "name": "vue+electron+webpack",
   "version": "1.0.0",
   "description": "Electron & Vue.js Boilerplate App",
-  "author": "Sohel Amin",
+  "author": "xiongfei",
   "license": "MIT",
   "main": "main.js",
   "scripts": {
